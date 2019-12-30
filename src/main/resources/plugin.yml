@@ -1,0 +1,6 @@
+name: DrinkTest
+main: com.jonahseguin.drinktest.DrinkTest
+author: Jonah Seguin
+description: Test plugin for the Drink command library
+version: ${project.version}
+website: jonahseguin.com

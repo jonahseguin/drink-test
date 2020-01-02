@@ -1,8 +1,8 @@
 package com.jonahseguin.drinktest;
 
 import com.jonahseguin.drink.annotation.Command;
+import com.jonahseguin.drink.annotation.Optional;
 import com.jonahseguin.drink.annotation.Sender;
-import com.jonahseguin.drink.modifier.annotation.Optional;
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;
 
